@@ -10,3 +10,9 @@ CREATE TABLE projects (
 
 INSERT INTO `realizacje` (`id`, `tytul`, `opis`, `obrazek`) 
 VALUES (NULL, 'Realizacja nr 1', 'Przykładowy opis realizacji nr 1', 'img/release1.png');
+
+INSERT INTO `realizacje` (`id`, `tytul`, `opis`, `obrazek`) 
+VALUES (NULL, 'Realizacja nr 2', 'Przykładowy opis realizacji nr 2', 'img/release2.png');
+
+INSERT INTO `realizacje` (`id`, `tytul`, `opis`, `obrazek`) 
+VALUES (NULL, 'Realizacja nr 3', 'Przykładowy opis realizacji nr 3', 'img/release3.png');
